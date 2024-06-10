@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: test@test.com
+author_name: F. Noel
+github_username: Partynumbers42
+mode: tooling
+module_name: pycourse_test
+project_name: pycourse-test-noel
+project_short_description: Demo package for course
+
